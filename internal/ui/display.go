@@ -9,7 +9,7 @@ import (
     "time"
 
     "github.com/fatih/color"
-    "github.com/yourusername/hardware-monitor/internal/monitor"
+    "github.com/rajasatyajit/hardware-monitor/internal/monitor"
 )
 
 // Display handles the CLI output

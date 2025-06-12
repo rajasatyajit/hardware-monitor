@@ -9,8 +9,8 @@ import (
     "syscall"
     "time"
 
-    "github.com/yourusername/hardware-monitor/internal/monitor"
-    "github.com/yourusername/hardware-monitor/internal/ui"
+    "github.com/rajasatyajit/hardware-monitor/internal/monitor"
+    "github.com/rajasatyajit/hardware-monitor/internal/ui"
 )
 
 var (
